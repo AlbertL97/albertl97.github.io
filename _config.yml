@@ -1,3 +1,10 @@
 title: Albert’s Research Hub
 description: Exploring VR, AI, and Neurotechnology for Mental Health
 theme: minima
+
+# Navigation menu
+header_pages:
+  - index.md
+  - research.md
+  - blog.md
+  - about.md
