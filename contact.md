@@ -8,7 +8,7 @@ permalink: /contact/
 
 Whether it's research questions, collaboration ideas, or just a friendly hello — feel free to reach out!
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/xwploede" method="POST">
   <label>Your name:<br>
     <input type="text" name="name" required>
   </label><br><br>
