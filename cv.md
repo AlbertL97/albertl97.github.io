@@ -36,4 +36,4 @@ Highlights:
 
 ---
 
-### 📎 [Click here to download the full CV (PDF)](/assets/Albert_Lukasik%20CV_updated.pdf)
+### 📎 [Click here to download the full CV (PDF)](/Albert_Lukasik%20CV_updated.pdf)
