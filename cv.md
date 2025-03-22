@@ -8,29 +8,32 @@ permalink: /cv/
 
 ## 🎓 Education
 
-- **PhD in [Your Field]**, [Your University], [Year–Present]  
-  Research focus: Virtual Reality, Neurotechnology, Mental Health
-- **MSc in [Field]**, [University], [Year]
-- **BSc in [Field]**, [University], [Year]
+- **PhD in Social Sciences**, Academia Rerum Socialium in Toruń, 2023–present  
+  *Thesis: Effects of manipulating perceptual dimensions of the mind on the perceived intentionality and emotions of an artificial agent: the virtual reality and neuroimaging approach.*
+  
+- **MSc in Cognitive Science**, Nicolaus Copernicus University, 2019–2021  
+  *Thesis: The influence of aging and subconscious processes regarding emotions and social cognition*
 
-## 🧪 Research Interests
+- **BSc in Cognitive Science**, Maria Curie-Skłodowska University, 2016–2019  
+  *Thesis: Modern problems in neuroscience*
 
-- Brain-computer interfaces
-- Cognitive modeling
-- VR-based cognitive interventions
-- AI for mental health
+## 🧪 Research Experience
 
-## 🧠 Experience
+Highlights:
+- EEG/VR/AR studies
+- Neurotechnology startup co-founder
+- Embodied Cognition Lab research assistant
+- EEG data analysis, biofeedback game design, and more
 
-- **Research Assistant**, [Institute/Project], [Year–Year]  
-  Description of your work.
+*(Full details available in the downloadable CV)*
 
 ## 🛠️ Skills
 
-- Programming: Python, MATLAB, Unity (C#)
-- Tools: EEG, fMRI, VR headsets
-- Methods: Machine learning, Cognitive testing
+- EEG, fMRI, Eye-tracking (Tobii Pro Lab)
+- Python (data analysis, pandas, numpy)
+- VR/AR headsets (Oculus, Hololens)
+- Tools: Jamovi, SPSS, Obsidian, GitHub
 
-## 📄 PDF Version
+---
 
-[Download PDF](assets/cv.pdf)
+### 📎 [Click here to download the full CV (PDF)](/assets/Albert_Lukasik%20CV_updated.pdf)
