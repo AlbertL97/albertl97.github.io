@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Albert Łukasik | Neurotech Research</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+    .hero {
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: white;
+    }
+    .fade-in {
+      opacity: 0;
+      animation: fadeIn 1s ease-in forwards;
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+  </style>
+</head>
+<body class="bg-gray-900 text-gray-100 font-sans">
+  <!-- Hero Section -->
+  <section class="hero h-screen flex flex-col justify-center items-center text-center px-4">
+    <h1 class="text-4xl md:text-6xl font-bold mb-4 fade-in">Albert Łukasik</h1>
+    <p class="text-xl md:text-2xl max-w-xl fade-in" style="animation-delay: 0.5s">Exploring the frontiers of Cognitive Science, Virtual Reality, AI & Neurotechnology for Mental Health</p>
+    <a href="#about" class="mt-8 inline-block px-6 py-3 bg-teal-500 hover:bg-teal-400 text-white font-semibold rounded-lg transition">Learn More</a>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="py-20 px-6 max-w-4xl mx-auto">
+    <h2 class="text-3xl font-bold mb-4">About Me</h2>
+    <p class="text-lg leading-relaxed">
+      I am a PhD student and researcher working at the intersection of neuroscience, immersive technology, and artificial intelligence.
+      My work focuses on enhancing mental health through neurotechnology, cognitive modeling, and embodied experiences in virtual environments.
+    </p>
+  </section>
+
+  <!-- Sections -->
+  <section class="py-16 px-6 max-w-4xl mx-auto">
+    <h2 class="text-3xl font-bold mb-4">Research & Publications</h2>
+    <ul class="list-disc pl-6 space-y-2">
+      <li>Empathic Responses to ChatGPT (2024)</li>
+      <li>VR & Intentionality in Cognitive Neuroscience (2025 - under review)</li>
+      <li><a href="/publications" class="text-teal-400 hover:underline">See full publication list →</a></li>
+    </ul>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="py-20 px-6 max-w-2xl mx-auto text-center">
+    <h2 class="text-3xl font-bold mb-4">Contact</h2>
+    <p>📧 <a href="mailto:lukasik.albert@gmail.com" class="text-teal-400 hover:underline">lukasik.albert@gmail.com</a></p>
+    <p class="mt-2">🔗
+      <a href="https://scholar.google.com/" class="text-teal-400 hover:underline mr-3">Google Scholar</a>
+      <a href="https://orcid.org/" class="text-teal-400 hover:underline mr-3">ORCID</a>
+      <a href="https://www.linkedin.com/" class="text-teal-400 hover:underline">LinkedIn</a>
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-6 text-center text-sm text-gray-500">
+    &copy; 2025 Albert Łukasik. Built with ❤️ using GitHub Pages & Tailwind CSS.
+  </footer>
+</body>
+</html>
